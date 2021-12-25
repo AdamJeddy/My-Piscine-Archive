@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr_non_printable.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aahsan <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: aahsan				                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/10 12:41:52 by aahsan            #+#    #+#             */
 /*   Updated: 2021/08/10 14:24:43 by aahsan           ###   ########.fr       */
