@@ -3,9 +3,9 @@ An archive of the code I wrote for the August 2021 Piscine @ 42
 
 Uploaded 
 * C0
-* C1
-* C2
-* C3
-* C4
-* C5
-* C6
+* C01
+* C02
+* C03
+* C04
+* C05
+* C06
